@@ -20,7 +20,13 @@
   }
 
   .skil-up {
-    margin-top: 1100px;
+    
+  }
+
+  .profile {
+    clear: both;
+    width: 15px;
+    width: 80%;
   }
 
   .gurahu-one {
@@ -70,8 +76,10 @@
     width: 100%;
   }
 
-  .facebook {
-    margin-bottom: 10px;
+  .profile {
+    position: relative;
+    width: 15px;
+    width: 80%;
   }
 
   .top-wrapper {
@@ -128,5 +136,9 @@
 
   .gurahu-nine {
     left: 8px;
+  }
+
+  .lesson {
+    width: 100%;
   }
 }
