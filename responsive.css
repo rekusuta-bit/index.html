@@ -1,0 +1,132 @@
+@media all and (max-width: 1079px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+  .face {
+    width: 100%;
+  }
+
+  .skil-up {
+    margin-top: 1100px;
+  }
+
+  .gurahu-one {
+    left: 8px;
+  }
+
+  .gurahu-two {
+    left: 8px;
+  }
+
+  .gurahu-three {
+    left: 8px;
+  }
+
+  .gurahu-four {
+    left: 8px;
+  }
+
+  .gurahu-five {
+    left: 8px;
+  }
+
+  .gurahu-six {
+    left: 8px;
+  }
+
+  .gurahu-seven {
+    left: 8px;
+  }
+
+  .gurahu-eight {
+    left: 8px;
+  }
+
+  .gurahu-nine {
+    left: 8px;
+  }
+}
+
+@media all and (max-width: 670px) {
+
+  .face {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  .gurahu-one {
+    left: 8px;
+  }
+
+  .gurahu-two {
+    left: 8px;
+  }
+
+  .gurahu-three {
+    left: 8px;
+  }
+
+  .gurahu-four {
+    left: 8px;
+  }
+
+  .gurahu-five {
+    left: 8px;
+  }
+
+  .gurahu-six {
+    left: 8px;
+  }
+
+  .gurahu-seven {
+    left: 8px;
+  }
+
+  .gurahu-eight {
+    left: 8px;
+  }
+
+  .gurahu-nine {
+    left: 8px;
+  }
+}
