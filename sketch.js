@@ -1,5 +1,5 @@
 
-var num = 80;
+var num = 40;
 var x = new Array(num);
 var y = new Array(num);
 var mx = new Array(num);
