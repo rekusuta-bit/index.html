@@ -1,5 +1,5 @@
 
-var num = 30;
+var num = 20;
 var x = new Array(num);
 var y = new Array(num);
 var mx = new Array(num);
@@ -29,8 +29,8 @@ function setup(){
   createCanvas(windowWidth, 0);
   background(255);
   for(var i=0; i<num; i=i+1){
-    x[i]= random(100,500);
-    y[i]= random(100,500);
+    x[i]= random(400,800);
+    y[i]= random(400,800);
     mx[i] = random(-4,2);
     my[i] = random(-4,2);
     s[i] = random(10,120);
