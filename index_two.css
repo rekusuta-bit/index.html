@@ -54,7 +54,6 @@ header {
   font-weight: normal;
 }
 
-
 .lesson {
   float: left;
   width: 33%;
@@ -74,6 +73,23 @@ header {
   margin-top: 15px;
   font-size: 13px;
   color: white;
+  margin-bottom: 80px;
+}
+
+.text-contents-movie {
+  text-align: left;
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 13px;
+  color: white;
+  margin-bottom: 80px;
+}
+
+.three-power {
+  font-size: 22px;
+  color: white;
+
 }
 
 .heading h3 {
@@ -102,4 +118,8 @@ footer img {
 footer p {
   color: white;
   font-size: 12px;
+}
+
+video {
+  width: 300px;
 }
