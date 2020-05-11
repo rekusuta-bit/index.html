@@ -1,5 +1,5 @@
 
-var num = 40;
+var num = 30;
 var x = new Array(num);
 var y = new Array(num);
 var mx = new Array(num);
@@ -31,8 +31,8 @@ function setup(){
   for(var i=0; i<num; i=i+1){
     x[i]= random(100,500);
     y[i]= random(100,500);
-    mx[i] = random(-3,2);
-    my[i] = random(-3,2);
+    mx[i] = random(-4,2);
+    my[i] = random(-4,2);
     s[i] = random(10,120);
     g[i] = random(0,0);
     h[i] = random(0,255);
@@ -60,7 +60,7 @@ function draw(){
     }
     x[i] = x[i]+mx[i];
 
-    if(y[i]>2100 || y[i]<0){
+    if(y[i]>2000 || y[i]<0){
       my[i] = my[i] * -1;
     }
     y[i] = y[i]+my[i];

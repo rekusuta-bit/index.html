@@ -20,7 +20,7 @@
   }
 
   .skil-up {
-    
+
   }
 
   .profile {
@@ -63,6 +63,10 @@
 
   .gurahu-nine {
     left: 8px;
+  }
+
+  .fade_off {
+    font-size: 20px;
   }
 }
 
@@ -141,4 +145,7 @@
   .lesson {
     width: 100%;
   }
+
+  .fade_off {
+    font-size: 16px;
 }
